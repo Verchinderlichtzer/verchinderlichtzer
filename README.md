@@ -1,16 +1,12 @@
-## Hi there 👋
+## About Me
+- Learnt .NET since 2019 (with Visual Basic), and then moved to C# since 2022.
+- I usually make projects with WinUI 3, Blazor Server and Blazor Hybrid WPF, but Desktop App is more preferable than Web App.
+- Sprinkled with some knowledge of XAML, HTML and CSS.
+- Other frameworks / techs I could work with are ASP.NET Core Web API, Entity Framework Core (SQLServer and SQLite).
+- Likes to be _alone_, often _alone_, and enjoys working _alone_.
+- Just say good words or keep silent.
 
-<!--
-**Verchinderlichtzer/verchinderlichtzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sometimes I do a demonstration of my works on my [youtube](https://www.youtube.com/@rlvy).  
+For business inquiries, you can [email](mailto:sujudihanif36@gmail.com) me.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verchinderlichtzer&layout=compact)](https://github.com/verchinderlichtzer/github-readme-stats)
